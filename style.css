@@ -110,7 +110,8 @@ nav {
 /* --------------------------- */
 
 .api {
-  margin: 12rem 8rem;
+  margin: 0 8rem;
+  margin-top: 12rem;
   font-size: 2.3rem;
   /* background-color: aqua; */
 }
@@ -178,4 +179,90 @@ nav {
 .right {
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
+}
+
+
+/* ------------------------------ */
+/* ---------- BLOG SECTION ------------ */
+/* ------------------------------ */
+.blog-heading {
+  margin: 3rem 8rem;
+  font-size: 2.3rem;
+}
+
+.blog-cards {
+  display: flex;
+  width: 90vw;
+  height: 35rem;
+  /* background-color: white; */
+  margin: 0 auto;
+  justify-content: space-between;
+  gap: 3rem;
+}
+
+.blog-card {
+  width: 48%;
+  /* background-color: aquamarine; */
+  position: relative;
+  /* border: 2px solid black; */
+  border-radius: 2rem;
+  border-top-left-radius: 10rem;
+  box-shadow: 1px 1px 5px 1px rgb(144, 144, 144);
+}
+
+.blog-image {
+  display: inline-block;
+  
+}
+
+.blog-image>img {
+  height: 35rem;
+}
+
+.blog-content {
+  display: inline-block;
+  /* background-color: antiquewhite; */
+  /* width: 45%; */
+  /* height: 70%; */
+  margin-left: 5rem;
+  position: relative;
+  top: -10rem;
+  box-sizing: border-box;
+}
+
+.blog-content>h6 {
+  font-size: 1.3rem;
+  color: var(--primary-blue);
+}
+
+.blog-content>h3 {
+  font-size: 2rem;
+  margin: 2rem 0;
+}
+
+.blog-content>small {
+  font-size: 1.5rem;
+}
+
+.blog-bottom {
+  display: inline-block;
+  position: absolute;
+  left: 37rem;
+  top: 31rem;
+}
+
+.blog-card-bottom-image {
+  height: 6.5rem;
+  filter: drop-shadow(0px 3px 3px rgb(172, 172, 172));
+}
+
+
+.blog-author {
+  position: absolute;
+  display: inline-block;
+  font-size: 1.5rem;
+  width: 15rem;
+  /* z-index: 1; */
+  left: 22.5rem;
+  top: 15.5rem;
 }
