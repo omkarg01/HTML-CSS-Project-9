@@ -5,7 +5,7 @@
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Project 9 [Live Link](https://interior-design-og.netlify.app)
+## Project 9 [Live Link](https://developer-og.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to divide the bigger problem in a smaller problem and solving it the smaller chunks.
