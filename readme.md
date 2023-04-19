@@ -13,7 +13,7 @@
 
 ## Time taken
 
--   Approximately 9-10 hour taken to complete this one.
+-   Approximately 13-15 hour taken to complete this one.
 
 #### Preview
 
