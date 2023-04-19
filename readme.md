@@ -1,4 +1,4 @@
-## Project 9 [Live Link](https://interior-design-og.netlify.app)
+## Project 9 [Live Link](https://developer-og.netlify.app/)
 
 
 ![name](https://img.shields.io/badge/Omkar--Gujja-OG)
